@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+ø„¸¸„ø¤º°¨¸„ø¤º°¨ post to 3 other vids
 Use the left arrow to go back!
